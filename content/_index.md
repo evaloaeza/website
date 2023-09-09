@@ -45,7 +45,7 @@ sections:
       date_start: "2015-07-01"
       description: |2-
           Responsibilities include:
-          * Conduct market studies
+          * Conducting market studies
           * Econometric Analysis
       location: Mexico City
       title: Director of Economic Analysis
