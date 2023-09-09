@@ -123,7 +123,7 @@ sections:
       company_url: ""
       date_end: "2011-06-30"
       date_start: "2010-05-01"
-      description: RA of PhD Noemi Levi Orlik
+      description: RA of PhD Noemi Levy Orlik
       location: Mexico City
       title: Research Assistant
     title: Research Experience
