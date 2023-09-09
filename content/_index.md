@@ -97,7 +97,10 @@ sections:
       company_url: ""
       date_end: "2023-08-10"
       date_start: "2023-07-10"
-      description: Taught Principles of Microeconomics
+      description: |2-
+          Principles of Microeconomics
+          * Syllabus [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/Syllabus_MicroEconomics_070323.pdf)
+          * Course Evaluation [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/2200_12954_Course_Evaluation_Report.pdf)
       location: Houston, TX
       title: Instructor 
     - company: University X
@@ -105,7 +108,10 @@ sections:
       company_url: ""
       date_end: "2022-08-10"
       date_start: "2022-07-01"
-      description: Taught Principles of Macroeconomics
+      description: |2-
+          Principles of Macroeconomics
+          * Material available [here](https://github.com/evaloaeza/Principles-Macro)
+          * Course Evaluation [here](https://github.com/evaloaeza/Principles-Macro/blob/main/Macro_Course%20Evaluation%20Report_Summer2022.pdf)
       location: Houston, TX
       title: Instructor
     title: Teaching Experience
