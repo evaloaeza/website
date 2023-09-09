@@ -54,12 +54,52 @@ sections:
       company_url: "http://www.imss.gob.mx/"
       date_end: "2013-07-31"
       date_start: "2011-01-01"
-      description: 
+      description:
+      location: Mexico City
       title: Research Analyst
     title: Professional Experience
   design:
     columns: "2"
   id: experience
+- block: experience
+  content:
+    date_format: Jan 2006
+    items:
+    - company: Hobby School of Public Affairs, UH
+      company_logo: uh
+      company_url: ""
+      date_end: ""
+      date_start: "2022-09-01"
+      description: 
+      location: Houston, TX
+      title: Research Assistant
+    - company: Department of Economics, UH
+      company_logo: uh
+      company_url: ""
+      date_end: "2020-12-31"
+      date_start: "2016-01-01"
+      description: RA of Prof. Steve Craig
+      location: Houston, TX
+      title: Research Assistant
+    - company: El Colegio de Mexico
+      company_logo: colmex2  
+      company_url: ""
+      date_end: "2011-07-31"
+      date_start: "2010-04-01"
+      description: RA of PhD Gerardo Esquivel Hernandez
+      location: Mexico City
+      title: Research Assistant
+    - company: UNAM
+      company_logo: unam  
+      company_url: ""
+      date_end: "2011-06-30"
+      date_start: "2010-05-01"
+      description: RA of PhD Noemi Levy Orlik
+      location: Mexico City
+      title: Research Assistant
+    title: Research Experience
+  design:
+    columns: "2"
 - block: experience
   content:
     date_format: Jan 2006
@@ -105,45 +145,6 @@ sections:
   design:
     columns: "2"
   id: teaching
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: Hobby School of Public Affairs, UH
-      company_logo: uh
-      company_url: ""
-      date_end: ""
-      date_start: "2022-09-01"
-      description: 
-      location: Houston, TX
-      title: Research Assistant
-    - company: Department of Economics, UH
-      company_logo: uh
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: RA of Prof. Steve Craig
-      location: Houston, TX
-      title: Research Assistant
-    - company: El Colegio de Mexico
-      company_logo: colmex2  
-      company_url: ""
-      date_end: "2011-07-31"
-      date_start: "2010-04-01"
-      description: RA of PhD Gerardo Esquivel Hernandez
-      location: Mexico City
-      title: Research Assistant
-    - company: UNAM
-      company_logo: unam  
-      company_url: ""
-      date_end: "2011-06-30"
-      date_start: "2010-05-01"
-      description: RA of PhD Noemi Levy Orlik
-      location: Mexico City
-      title: Research Assistant
-    title: Research Experience
-  design:
-    columns: "2"
 - block: features
   content:
     items:
