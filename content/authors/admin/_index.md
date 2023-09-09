@@ -1,6 +1,5 @@
 ---
-bio: My research interests include health economics and empirical industrial organization. 
-  matter.
+bio: My research interests include health economics, applied microeconomics and empirical industrial organization. 
 education:
   courses:
   - course: PhD in Economics
