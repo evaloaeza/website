@@ -9,7 +9,7 @@ education:
     institution: University of Houston
     year: 2022
   - course: MA in Economics
-    institution: University of Houston
+    institution: ITAM
     year: 2015
   - course: BA in Economics
     institution: UNAM
