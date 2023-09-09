@@ -86,6 +86,21 @@ sections:
           * Course Evaluation [here](https://github.com/evaloaeza/Principles-Macro/blob/main/Macro_Course%20Evaluation%20Report_Summer2022.pdf)
       location: Houston, TX
       title: Instructor
+    - company: University of Houston
+      company_logo: uh
+      company_url: ""
+      date_end: "2022-07-10"
+      date_start: "2019-08-01"
+      description: |2-
+          Courses:
+          * Empirical Industrial Organization
+          * Applied Econometrics
+          * Behavioral Economics
+          * Health Economics 
+          * Economics of Health Care
+          * Introduction to Economic Data Analysis
+      location: Houston, TX
+      title: Teaching Assistant
     title: Teaching Experience
   design:
     columns: "2"
