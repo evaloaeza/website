@@ -273,15 +273,15 @@ sections:
   content:
     email: edloaeza@cougarnet.uh.edu.com
     address:
-      city: Stanford
+      city: Houston
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      postcode: "77204"
+      region: TX
+      street: 4104 Martin Luther King Blvd
       appointment_url: https://calendly.com
       autolink: true
-    phone: 888 888 88 88
+    phone: 
     contact_links:
       - icon: twitter
         icon_pack: fab
