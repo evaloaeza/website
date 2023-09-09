@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: JMP.
 tags:
-- Discrete Choice
+- JMP
 title: A Discrete Choice Model for an Over-The-Counter Drug
 ---

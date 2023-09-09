@@ -20,4 +20,4 @@ url_slides: ""
 url_video: ""
 ---
 
-Work in progress. Draft comming soon.
+Work in progress. Draft coming soon.

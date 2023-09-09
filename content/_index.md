@@ -208,10 +208,10 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Health Economics
+      tag: Health Economics
+    - name: JMP
+      tag: JMP
     default_button_index: 0
     filters:
       folders:
