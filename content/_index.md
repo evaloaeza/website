@@ -34,34 +34,6 @@ sections:
     title: About me
     username: admin
   id: about
-- block: features
-  content:
-    items:
-      - name: Python
-        description: Intermediate
-        icon: python
-        icon_pack: fab
-      - name: Stata
-        description: Advanced
-        icon: stata
-        icon_pack: custom
-      - name: Matlab
-        description: Advanced
-        icon: matlab
-        icon_pack: custom
-      - name: ArcGIS
-        description: Intermediate
-        icon: arcgis
-        icon_pack: custom
-      - name: R
-        description: Intermediate
-        icon: r-project
-        icon_pack: fab
-      - name: QGIS
-        description: Intermediate
-        icon: qgis
-        icon_pack: custom
-    title: Skills
 - block: experience
   content:
     date_format: Jan 2006
@@ -157,6 +129,34 @@ sections:
     title: Research Experience
   design:
     columns: "2"
+- block: features
+  content:
+    items:
+      - name: Python
+        description: Intermediate
+        icon: python
+        icon_pack: fab
+      - name: Stata
+        description: Advanced
+        icon: stata
+        icon_pack: custom
+      - name: Matlab
+        description: Advanced
+        icon: matlab
+        icon_pack: custom
+      - name: ArcGIS
+        description: Intermediate
+        icon: arcgis
+        icon_pack: custom
+      - name: R
+        description: Intermediate
+        icon: r-project
+        icon_pack: fab
+      - name: QGIS
+        description: Intermediate
+        icon: qgis
+        icon_pack: custom
+    title: Skills
 - block: accomplishments
   content:
     date_format: Jan 2006

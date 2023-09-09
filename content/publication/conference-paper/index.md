@@ -19,22 +19,22 @@ image:
 projects:
 - example
 publication: In *SSRN*
-publication_short: In *ICW*
+publication_short: In *SSRN*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags: [marijuana]
-title: Social connectness and Marijuana Use
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+tags: []
+title: From Likes to Lit Examining the Role of Social Media in Shaping Marijuana Use Behaviors
+url_code: 
+url_dataset: 
 url_pdf: ""
 #url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_source: 
 #url_video: https://youtube.com
 ---
 

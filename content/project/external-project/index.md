@@ -4,8 +4,8 @@ external_link:
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: 
+summary: JMP.
 tags:
-- Demo
+- Discrete Choice
 title: A Discrete Choice Model for an Over-The-Counter Drug
 ---
