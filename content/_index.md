@@ -103,7 +103,7 @@ sections:
           * Course Evaluation [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/2200_12954_Course_Evaluation_Report.pdf)
       location: Houston, TX
       title: Instructor 
-    - company: University X
+    - company: University of Houston
       company_logo: uh
       company_url: ""
       date_end: "2022-08-10"
