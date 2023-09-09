@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include health economics and empirical industrial organization. 
   matter.
 education:
   courses:
