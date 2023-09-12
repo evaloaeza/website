@@ -287,7 +287,7 @@ sections:
 #     columns: "2"
 - block: contact
   content:
-    email: edloaeza@cougarnet.uh.edu.com
+    email: edloaeza@cougarnet.uh.edu
     address:
       city: Houston
       country: United States
