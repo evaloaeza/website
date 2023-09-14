@@ -269,10 +269,10 @@ sections:
 - block: portfolio
   content:
     buttons:
-    - name: All
-      tag: '*'
-    - name: Health Economics
-      tag: Health Economics
+    # - name: All
+    #   tag: '*'
+    # - name: Health Economics
+    #   tag: Health Economics
     - name: JMP
       tag: JMP
     default_button_index: 0
