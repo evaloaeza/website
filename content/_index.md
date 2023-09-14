@@ -251,25 +251,25 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Featured Publications
+    title: Working Papers
   design:
     columns: "2"
     view: card
   id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
+# - block: collection
+#   content:
+#     filters:
+#       exclude_featured: true
+#       folders:
+#       - publication
+#     text: |-
+#       {{% callout note %}}
+#       Quickly discover relevant content by [filtering publications](./publication/).
+#       {{% /callout %}}
+#     title: Recent Publications
+#   design:
+#     columns: "2"
+#     view: citation
 # - block: collection
 #   content:
 #     filters:
