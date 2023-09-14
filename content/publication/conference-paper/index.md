@@ -6,13 +6,13 @@ author_notes:
 - University of Houston, NBER, IZA
 authors:
 - admin
-- Marit Hinnosar
+- Marit Hinnosaar
 - Elaine Liu
 date: "2013-09-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '[**Hinnosaar, et. al**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391)'
   focal_point: ""
   preview_only: false
 projects:
