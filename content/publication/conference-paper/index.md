@@ -16,24 +16,23 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- network_drugs
 publication: In *SSRN*
 publication_short: In *SSRN*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2023-09-01T00:00:00Z"
+#slides: 
 summary: 
-tags: [externalities]
+tags: [externalities, health economics]
 title: Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States
-url_code: 
-url_dataset: 
-url_pdf: ""
+#url_code: 
+#url_dataset: 
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391"
 #url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: 
+#url_project: ""
+#url_slides: ""
+#url_source: 
 #url_video: https://youtube.com
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
