@@ -17,7 +17,7 @@ image:
   preview_only: false
 projects:
 - network_drugs
-publication: In *SSRN*
+publication: In [*SSRN*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391)
 publication_short: In *SSRN*
 publication_types:
 - "1"
@@ -26,13 +26,13 @@ publishDate: "2023-09-01T00:00:00Z"
 summary: 
 tags: [externalities, health economics]
 title: Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States
-#url_code: 
-#url_dataset: 
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391"
-#url_poster: ""
-#url_project: ""
-#url_slides: ""
-#url_source: 
+url_code: 
+url_dataset: 
+url_poster: ""
+url_project: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391'
+url_slides: ""
+url_source: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391'
 #url_video: https://youtube.com
 ---
 
