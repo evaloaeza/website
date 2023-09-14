@@ -24,7 +24,7 @@ publication_types:
 publishDate: "2023-09-01T00:00:00Z"
 #slides: 
 summary: 
-tags: [externalities, health economics]
+tags: [externalities, marijuana, Facebook]
 title: Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571391"
 url_code: 
