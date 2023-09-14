@@ -219,21 +219,6 @@ sections:
 #     columns: "2"
 #     view: compact
 #   id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
 # - block: markdown
 #   content:
 #     subtitle: ""
@@ -252,20 +237,20 @@ sections:
     columns: "2"
     view: card
   id: featured
-# - block: collection
-#   content:
-#     filters:
-#       exclude_featured: true
-#       folders:
-#       - publication
-#     text: |-
-#       {{% callout note %}}
-#       Quickly discover relevant content by [filtering publications](./publication/).
-#       {{% /callout %}}
-#     title: Recent Publications
-#   design:
-#     columns: "2"
-#     view: citation
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: |-
+      {{% callout note %}}
+      Quickly discover relevant content by [filtering publications](./publication/).
+      {{% /callout %}}
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation
 # - block: collection
 #   content:
 #     filters:
@@ -281,6 +266,25 @@ sections:
 #     title: Popular Topics
 #   design:
 #     columns: "2"
+- block: portfolio
+  content:
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Health Economics
+      tag: Health Economics
+    - name: JMP
+      tag: JMP
+    default_button_index: 0
+    filters:
+      folders:
+      - project
+    title: Projects
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
 - block: contact
   content:
     email: edloaeza@cougarnet.uh.edu
