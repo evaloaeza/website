@@ -157,7 +157,7 @@ sections:
         icon: stata
         icon_pack: custom
       - name: Matlab
-        description: Advanced
+        description: Intermediate
         icon: matlab
         icon_pack: custom
       - name: ArcGIS
