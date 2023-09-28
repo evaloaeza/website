@@ -42,19 +42,19 @@ sections:
       company_logo: cofece
       company_url: "https://www.cofece.mx/?lang=en"
       date_end: "2019-01-15"
-      date_start: "2015-07-01"
+      date_start: "2015-06-01"
       description: |2-
-          Responsibilities include:
-          * Conducting market studies
-          * Econometric Analysis
+          * Coordinated and developed antitrust and competition studies in the pharmaceutical and transportation industries.
+          * Managed communication of market studies’s recommendations with public and private bodies.
       location: Mexico City
       title: Director of Economic Analysis
     - company: Mexican Social Security Institute
       company_logo: imss
       company_url: "http://www.imss.gob.mx/"
-      date_end: "2013-07-31"
-      date_start: "2011-01-01"
-      description:
+      date_end: "2014-01-31"
+      date_start: "2011-09-01"
+      description: |2-
+          * Performed statistical analysis to efficiently allocate federal funds for pharmaceuticals and medical services.
       location: Mexico City
       title: Research Analyst
     title: Professional Experience
@@ -76,8 +76,8 @@ sections:
     - company: Department of Economics, UH
       company_logo: uh
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
+      date_end: "2021-08-31"
+      date_start: "2021-06-01"
       description: RA of Prof. Steve Craig
       location: Houston, TX
       title: Research Assistant

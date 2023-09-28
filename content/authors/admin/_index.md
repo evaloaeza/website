@@ -7,13 +7,13 @@ education:
     year: 2024 (expected)
   - course: MA in Economics
     institution: University of Houston
-    year: 2022
+    year: 2021
   - course: MA in Economics
     institution: ITAM
     year: 2015
   - course: BA in Economics
     institution: UNAM
-    year: 2013
+    year: 2011
 email: ""
 first_name: Eva
 highlight_name: true
@@ -39,9 +39,9 @@ social:
 # - icon: graduation-cap
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/evaloaeza
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/evaloaeza
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/evaloaezaalbino
