@@ -7,5 +7,5 @@ image:
 summary: JMP
 tags:
 - JMP
-title: A Discrete Choice Model for an Over-The-Counter Drug
+title: Consumer Preferences for Retail Channel, Evidence from Emergency Contraceptives
 ---
