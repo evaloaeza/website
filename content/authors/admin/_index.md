@@ -47,7 +47,7 @@ social:
   link: https://www.linkedin.com/in/evaloaezaalbino
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Eva_Loaeza_CV.pdf
 # status:
 #   icon: ☕️
 superuser: true
