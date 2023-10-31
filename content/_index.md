@@ -42,7 +42,7 @@ sections:
       company_logo: cofece
       company_url: "https://www.cofece.mx/?lang=en"
       date_end: "2019-01-15"
-      date_start: "2016-06-15"
+      date_start: "2016-10-01"
       description: |2-
           * Coordinated and developed antitrust and competition studies in the pharmaceutical and transportation industries.
           * Managed communication of market studies’s recommendations with public and private bodies.
@@ -51,7 +51,7 @@ sections:
     - company: Federal Economic Competition Commission
       company_logo: cofece
       company_url: "https://www.cofece.mx/?lang=en"
-      date_end: "2016-01-15"
+      date_end: "2016-10-01"
       date_start: "2015-06-01"
       description: |2-
           * Prepared presentations to communicate findings of technical studies to broader audiences.
