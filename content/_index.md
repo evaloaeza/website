@@ -42,12 +42,22 @@ sections:
       company_logo: cofece
       company_url: "https://www.cofece.mx/?lang=en"
       date_end: "2019-01-15"
-      date_start: "2015-06-01"
+      date_start: "2016-06-15"
       description: |2-
           * Coordinated and developed antitrust and competition studies in the pharmaceutical and transportation industries.
           * Managed communication of market studies’s recommendations with public and private bodies.
       location: Mexico City
       title: Director of Economic Analysis
+    - company: Federal Economic Competition Commission
+      company_logo: cofece
+      company_url: "https://www.cofece.mx/?lang=en"
+      date_end: "2016-01-15"
+      date_start: "2015-06-01"
+      description: |2-
+          * Prepared presentations to communicate findings of technical studies to broader audiences.
+          * Researched and assisted in the development of market studies in the areas of finance and agribusiness.
+      location: Mexico City
+      title: Deputy Director of Economic Analysis
     - company: Mexican Social Security Institute
       company_logo: imss
       company_url: "http://www.imss.gob.mx/"
@@ -111,6 +121,7 @@ sections:
       date_start: "2023-07-10"
       description: |2-
           Principles of Microeconomics
+          * Teaching Effectiveness: 4.6/5
           * Syllabus [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/Syllabus_MicroEconomics_070323.pdf)
           * Course Evaluation [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/2200_12954_Course_Evaluation_Report.pdf)
       location: Houston, TX
@@ -121,7 +132,8 @@ sections:
       date_end: "2022-08-10"
       date_start: "2022-07-01"
       description: |2-
-          Principles of Macroeconomics
+          Principles of Macroeconomics 
+          * Teaching Effectiveness: 5/5
           * Material available [here](https://github.com/evaloaeza/Principles-Macro)
           * Course Evaluation [here](https://github.com/evaloaeza/Principles-Macro/blob/main/Macro_Course%20Evaluation%20Report_Summer2022.pdf)
       location: Houston, TX
