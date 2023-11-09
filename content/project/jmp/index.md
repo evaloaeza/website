@@ -7,5 +7,5 @@ image:
 summary: JMP
 tags:
 - JMP
-title: Consumer Preferences for Retail Channel, Evidence from Emergency Contraceptives
+title: Consumer Preferences over Retail Channels, Evidence from Emergency Contraceptives
 ---
