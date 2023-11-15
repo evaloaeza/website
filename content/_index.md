@@ -34,6 +34,17 @@ sections:
     title: About me
     username: admin
   id: about
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Working Papers
+  design:
+    columns: "2"
+    view: card
+  id: featured
 - block: experience
   content:
     date_format: Jan 2006
@@ -238,17 +249,6 @@ sections:
 #     title: Gallery
 #   design:
 #     columns: "1"
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Working Papers
-  design:
-    columns: "2"
-    view: card
-  id: featured
 # - block: collection
 #   content:
 #     filters:
@@ -278,25 +278,25 @@ sections:
 #     title: Popular Topics
 #   design:
 #     columns: "2"
-- block: portfolio
-  content:
-    buttons:
+#- block: portfolio
+#  content:
+#    buttons:
     # - name: All
     #   tag: '*'
     # - name: Health Economics
     #   tag: Health Economics
-    - name: JMP
-      tag: JMP
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
+#    - name: JMP
+#      tag: JMP
+#    default_button_index: 0
+#    filters:
+#      folders:
+#      - project
+#    title: Projects
+#  design:
+#    columns: "1"
+#    flip_alt_rows: false
+#    view: showcase
+#  id: projects
 - block: contact
   content:
     email: edloaeza@cougarnet.uh.edu

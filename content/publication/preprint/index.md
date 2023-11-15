@@ -8,7 +8,7 @@ date: "2023-11-15T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: '[**Loaeza (2023)**](https://unsplash.com/photos/_jbClosDsD4)'
+  caption: 'Loaeza-Albino (2023)'
   focal_point: ""
   preview_only: false
 #links:
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary:
 tags:
-- Source Themes
+#- Source Themes
 title: Consumers Preferences for Retail Channel, Evidence from Emergency Contraceptives
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
