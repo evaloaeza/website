@@ -8,9 +8,9 @@ date: "2023-11-15T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Loaeza: [**Unsplash**](https://unsplash.com/photos/_jbClosDsD4)'
+  caption: '[**Loaeza (2023)**](https://unsplash.com/photos/_jbClosDsD4)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 links:
 - name: Custom Link
   url: http://example.org
