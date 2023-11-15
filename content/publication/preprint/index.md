@@ -11,9 +11,9 @@ image:
   caption: '[**Loaeza (2023)**](https://unsplash.com/photos/_jbClosDsD4)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
+#links:
+#- name: Custom Link
+#  url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -21,17 +21,17 @@ publication_short: "Job Market Paper"
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+#slides: example
 summary:
 tags:
 - Source Themes
 title: Consumers Preferences for Retail Channel, Evidence from Emergency Contraceptives
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_poster: '#'
-url_project: ""
+#url_project: ""
 #url_slides: ""
-url_source: '#'
+#url_source: '#'
 ---
 
