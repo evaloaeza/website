@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 summary:
 tags:
 #- Source Themes
-title: Consumers Preferences for Retail Channel, Evidence from Emergency Contraceptives
+title: Consumers Preferences over Retail Channels, Evidence from Emergency Contraceptives
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
