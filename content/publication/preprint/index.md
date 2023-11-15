@@ -1,21 +1,23 @@
 ---
-abstract: Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I study the preferences of consumers over different retail channels (drug stores, mass merchandiser, or grocery stores) for purchasing over-the-counter emergency contraceptives (EC). Using monthly EC sales in Texas from 2017 to 2019, I estimate consumer preferences using a BLP discrete choice model. My results show that consumers are sensitive to prices, and that they exhibit preferences for specific retail channels but not for branded vs generic products. To address recent policy debates, I conduct counterfactual simulations banning the sale of EC from grocery or mass merchandiser stores. I find that this would result in 5-8% increase in the number of consumers who do not buy EC.
+author_notes:
+- University of Houston
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-11-15T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/_jbClosDsD4)'
+  caption: 'Loaeza: [**Unsplash**](https://unsplash.com/photos/_jbClosDsD4)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 links:
 - name: Custom Link
   url: http://example.org
 projects:
 - internal-project
 publication: ""
-publication_short: ""
+publication_short: "Job Market Paper"
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +33,5 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_project: ""
 #url_slides: ""
 url_source: '#'
-#url_video: '#'
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
