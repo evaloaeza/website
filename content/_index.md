@@ -204,7 +204,7 @@ sections:
       date_end: ""
       date_start: "2021-01-25"
       description: ""
-      organization: Center for Research and Teaching in Economics
+      organization: Centro de Investigación y Docencia Económicas (CIDE) 
       organization_url: https://www.cide.edu/
       title: Econonomic Competition
       url: ""
