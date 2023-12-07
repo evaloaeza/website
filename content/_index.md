@@ -91,7 +91,7 @@ sections:
       company_url: ""
       date_end: ""
       date_start: "2022-09-01"
-      description: RA for [Prof. Blake Heller](https://www.blakeheller.com/) and [Prof. Katelyn Heath](https://katelynheath.com/research/)
+      description: RA for [Prof. Blake Heller](https://www.blakeheller.com/) and [Prof. Katelyn Heath](https://katelynheath.com/)
       location: Houston, TX
       title: Research Assistant
     - company: Department of Economics, UH
@@ -107,7 +107,7 @@ sections:
       company_url: ""
       date_end: "2011-07-31"
       date_start: "2010-04-01"
-      description: RA for PhD [Gerardo Esquivel Hernandez](https://gerardoesquivel.org/)
+      description: RA for [Prof. Gerardo Esquivel Hernandez](https://gerardoesquivel.org/)
       location: Mexico City
       title: Research Assistant
     - company: UNAM
