@@ -91,7 +91,7 @@ sections:
       company_url: ""
       date_end: ""
       date_start: "2022-09-01"
-      description: 
+      description: RA for [Prof. Blake Heller](https://www.blakeheller.com/) and [Prof. Katelyn Heath](https://katelynheath.com/research/)
       location: Houston, TX
       title: Research Assistant
     - company: Department of Economics, UH
@@ -99,7 +99,7 @@ sections:
       company_url: ""
       date_end: "2021-08-31"
       date_start: "2021-06-01"
-      description: RA of Prof. Steve Craig
+      description: RA for [Prof. Steve Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/)
       location: Houston, TX
       title: Research Assistant
     - company: El Colegio de Mexico
@@ -107,7 +107,7 @@ sections:
       company_url: ""
       date_end: "2011-07-31"
       date_start: "2010-04-01"
-      description: RA of PhD Gerardo Esquivel Hernandez
+      description: RA for PhD [Gerardo Esquivel Hernandez](https://gerardoesquivel.org/)
       location: Mexico City
       title: Research Assistant
     - company: UNAM
@@ -115,7 +115,7 @@ sections:
       company_url: ""
       date_end: "2011-06-30"
       date_start: "2010-05-01"
-      description: RA of PhD Noemi Levy Orlik
+      description: RA for [Prof.Noemi Levy Orlik](https://www.depfe.unam.mx/levy/)
       location: Mexico City
       title: Research Assistant
     title: Research Experience
@@ -202,7 +202,7 @@ sections:
     items:
     - certificate_url: ''
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2016-01-25"
       description: ""
       organization: Centro de Investigación y Docencia Económicas (CIDE) 
       organization_url: https://www.cide.edu/

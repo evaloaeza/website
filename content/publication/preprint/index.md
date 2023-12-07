@@ -20,7 +20,7 @@ publication: ""
 publication_short: "Job Market Paper"
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 #slides: example
 summary:
 tags:
@@ -28,7 +28,7 @@ tags:
 title: Consumers Preferences over Retail Channels, Evidence from Emergency Contraceptives
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/Loaeza_JMP.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
