@@ -1,5 +1,12 @@
 ---
-abstract: We study the impact of distant connections on marijuana use. Leveraging the Facebook Social Connectedness Index, which measures the strength of connectedness between geographic areas based on Facebook friendship ties, we explore the impact of connections to states where recreational marijuana use is legalized on marijuana use and workplace drug testing positivity rates in areas where marijuana remains illegal. The findings reveal that areas which are more connected to legalized states exhibit higher rates of marijuana use and workplace drug testing positivity even after controlling for geographic proximity to the legalized states. The results suggest that even connections beyond closed proximity can play a significant role in shaping individuals' behaviors. Our findings of the externality of legalization in one state to other more connected out-of-state areas imply that studies that estimate the impact of legalization using a standard difference-in-differences approach without taking into account the network underestimate the direct effect on the state that legalizes.
+abstract: We study the impact of distant connections on marijuana use. Using data on
+Facebook friendships, we investigate whether connections to states where recreational
+marijuana is legalized affect marijuana use in areas where it remains illegal. We find that areas
+more connected to legalized states have a larger increase in marijuana use. These results
+indicate that even non-local connections can impact behavior. Our findings suggest that
+studies measuring the impact of marijuana legalization using a standard difference-in-
+differences approach, without accounting for the network, underestimate the direct effect on
+the state that legalized.
 author_notes:
 - University of Houston
 - University of Nottingham, CEPR
