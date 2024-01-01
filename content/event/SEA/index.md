@@ -21,7 +21,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-location: Boston Sheraton
+location: New Orleans Marriott
 projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
