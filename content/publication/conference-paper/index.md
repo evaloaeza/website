@@ -1,12 +1,5 @@
 ---
-abstract: We study the impact of distant connections on marijuana use. Using data on
-Facebook friendships, we investigate whether connections to states where recreational
-marijuana is legalized affect marijuana use in areas where it remains illegal. We find that areas
-more connected to legalized states have a larger increase in marijuana use. These results
-indicate that even non-local connections can impact behavior. Our findings suggest that
-studies measuring the impact of marijuana legalization using a standard difference-in-
-differences approach, without accounting for the network, underestimate the direct effect on
-the state that legalized.
+abstract: We study the impact of distant connections on marijuana use. Using data on Facebook friendships, we investigate whether connections to states where recreational marijuana is legalized affect marijuana use in areas where it remains illegal. We find that areas more connected to legalized states have a larger increase in marijuana use. These results indicate that even non-local connections can impact behavior. Our findings suggest that studies measuring the impact of marijuana legalization using a standard difference-in-differences approach, without accounting for the network, underestimate the direct effect on the state that legalized.
 author_notes:
 - University of Houston
 - University of Nottingham, CEPR
