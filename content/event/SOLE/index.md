@@ -14,7 +14,7 @@ event: SOLE
 event_url: https://www.aeaweb.org/content/file?id=19848
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://www.sole-jole.org/assets/images/SOLE2024/SOLE%202024%20Stamp.png)'
   focal_point: Right
 links:
 #- icon: twitter
@@ -26,7 +26,7 @@ projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-summary: I will be presenting my paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
+summary: I will be presenting my co-authored paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
 tags: []
 title: Society of Labor Economists Annual Conference
 #url_code: ""

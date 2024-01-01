@@ -25,8 +25,8 @@ location: Boston Sheraton
 projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: I will be presenting my paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
+#slides: example
+summary: I will be presenting my co-authored paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
 tags: []
 title: Eastern Economic Association 50th Annual Meeting
 url_code: ""

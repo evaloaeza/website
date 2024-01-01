@@ -26,7 +26,7 @@ projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-summary: I presented my paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
+summary: I presented my co-authored paper on the Externalities of Marijuana Legalization, Marijuana Use in Non-Legalizing States.
 tags: []
 title: Southern Economic Association 93rd Annual Meeting
 #url_code: ""
