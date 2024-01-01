@@ -263,16 +263,6 @@ sections:
 #   design:
 #     columns: "2"
 #     view: citation
-# - block: collection
-#   content:
-#     filters:
-#       folders:
-#       - event
-#     title: Recent & Upcoming Talks
-#   design:
-#     columns: "2"
-#     view: compact
-#   id: talks
 # - block: tag_cloud
 #   content:
 #     title: Popular Topics
@@ -297,6 +287,16 @@ sections:
 #    flip_alt_rows: false
 #    view: showcase
 #  id: projects
+- block: collection
+  id: talks
+  content:
+    title: Recent & Upcoming Talks
+    filters:
+      folders:
+        - event
+  design:
+    columns: '2'
+    view: compact
 - block: contact
   content:
     email: edloaeza@cougarnet.uh.edu
