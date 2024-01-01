@@ -45,16 +45,6 @@ sections:
     columns: "2"
     view: card
   id: featured
-- block: collection
-  id: talks
-  content:
-    title: Recent & Upcoming Talks
-    filters:
-      folders:
-        - event
-  design:
-    columns: '2'
-    view: compact
 - block: experience
   content:
     date_format: Jan 2006
@@ -230,6 +220,16 @@ sections:
     title: Certificates
   design:
     columns: "2"
+- block: collection
+  id: talks
+  content:
+    title: Recent & Upcoming Talks
+    filters:
+      folders:
+        - event
+  design:
+    columns: '2'
+    view: compact
 # - block: collection
 #   content:
 #     count: 5
