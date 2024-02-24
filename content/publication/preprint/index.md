@@ -28,7 +28,7 @@ tags:
 title: Consumers Preferences over Retail Channels, Evidence from Emergency Contraceptives
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: uploads/Loaeza_JMP.pdf
+#url_pdf: uploads/Loaeza_JMP.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
