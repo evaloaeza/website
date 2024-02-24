@@ -49,82 +49,6 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: Federal Economic Competition Commission
-      company_logo: cofece
-      company_url: "https://www.cofece.mx/?lang=en"
-      date_end: "2019-01-15"
-      date_start: "2016-10-01"
-      description: |2-
-          * Coordinated and developed antitrust and competition studies in the pharmaceutical and transportation industries.
-          * Managed communication of market studies’s recommendations with public and private bodies.
-      location: Mexico City
-      title: Director of Economic Analysis
-    - company: Federal Economic Competition Commission
-      company_logo: cofece
-      company_url: "https://www.cofece.mx/?lang=en"
-      date_end: "2016-10-01"
-      date_start: "2015-06-01"
-      description: |2-
-          * Prepared presentations to communicate findings of technical studies to broader audiences.
-          * Researched and assisted in the development of market studies in the areas of finance and agribusiness.
-      location: Mexico City
-      title: Deputy Director of Economic Analysis
-    - company: Mexican Social Security Institute
-      company_logo: imss
-      company_url: "http://www.imss.gob.mx/"
-      date_end: "2014-01-31"
-      date_start: "2011-09-01"
-      description: |2-
-          * Performed statistical analysis to efficiently allocate federal funds for pharmaceuticals and medical services.
-      location: Mexico City
-      title: Research Analyst
-    title: Professional Experience
-  design:
-    columns: "2"
-  id: experience
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: Hobby School of Public Affairs, UH
-      company_logo: uh
-      company_url: ""
-      date_end: ""
-      date_start: "2022-09-01"
-      description: RA for [Prof. Blake Heller](https://www.blakeheller.com/) and [Prof. Katelyn Heath](https://katelynheath.com/)
-      location: Houston, TX
-      title: Research Assistant
-    - company: Department of Economics, UH
-      company_logo: uh
-      company_url: ""
-      date_end: "2021-08-31"
-      date_start: "2021-06-01"
-      description: RA for [Prof. Steve Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/)
-      location: Houston, TX
-      title: Research Assistant
-    - company: El Colegio de Mexico
-      company_logo: colmex2  
-      company_url: ""
-      date_end: "2011-07-31"
-      date_start: "2010-04-01"
-      description: RA for [Prof. Gerardo Esquivel Hernandez](https://gerardoesquivel.org/)
-      location: Mexico City
-      title: Research Assistant
-    - company: UNAM
-      company_logo: unam  
-      company_url: ""
-      date_end: "2011-06-30"
-      date_start: "2010-05-01"
-      description: RA for [Prof.Noemi Levy Orlik](https://www.depfe.unam.mx/levy/)
-      location: Mexico City
-      title: Research Assistant
-    title: Research Experience
-  design:
-    columns: "2"
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
     - company: University of Houston
       company_logo: uh
       company_url: ""
@@ -133,8 +57,6 @@ sections:
       description: |2-
           Principles of Microeconomics
           * Teaching Effectiveness: 4.6/5
-          * Syllabus [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/Syllabus_MicroEconomics_070323.pdf)
-          * Course Evaluation [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/2200_12954_Course_Evaluation_Report.pdf)
       location: Houston, TX
       title: Instructor 
     - company: University of Houston
@@ -145,8 +67,6 @@ sections:
       description: |2-
           Principles of Macroeconomics 
           * Teaching Effectiveness: 5/5
-          * Material available [here](https://github.com/evaloaeza/Principles-Macro)
-          * Course Evaluation [here](https://github.com/evaloaeza/Principles-Macro/blob/main/Macro_Course%20Evaluation%20Report_Summer2022.pdf)
       location: Houston, TX
       title: Instructor
     - company: University of Houston
@@ -168,58 +88,6 @@ sections:
   design:
     columns: "2"
   id: teaching
-- block: features
-  content:
-    items:
-      - name: Python
-        description: Intermediate
-        icon: python
-        icon_pack: fab
-      - name: Stata
-        description: Advanced
-        icon: stata
-        icon_pack: custom
-      - name: Matlab
-        description: Intermediate
-        icon: matlab
-        icon_pack: custom
-      - name: ArcGIS
-        description: Intermediate
-        icon: arcgis
-        icon_pack: custom
-      - name: R
-        description: Intermediate
-        icon: r-project
-        icon_pack: fab
-      - name: QGIS
-        description: Intermediate
-        icon: qgis
-        icon_pack: custom
-    title: Skills
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: ''
-      date_end: ""
-      date_start: "2016-01-25"
-      description: ""
-      organization: Centro de Investigación y Docencia Económicas (CIDE) 
-      organization_url: https://www.cide.edu/
-      title: Econonomic Competition
-      url: ""
-    - certificate_url: 
-      date_end: "2015-12-21"
-      date_start: "2015-07-01"
-      description: ""
-      organization: Universidad Iberoamericana
-      organization_url:  https://ibero.mx/
-      title: Managerial Skills
-      url: ""
-    subtitle: null
-    title: Certificates
-  design:
-    columns: "2"
 - block: collection
   id: talks
   content:
