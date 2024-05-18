@@ -21,7 +21,7 @@ interests:
 - Health Economics
 - Empirical Industrial Organization
 - Applied Microeconomics
-last_name: Loaeza-Albino
+last_name: Loaeza Albino
 organizations:
 - name: University of Houston
   url: https://www.uh.edu/class/economics/
@@ -51,7 +51,7 @@ social:
 # status:
 #   icon: ☕️
 superuser: true
-title: Eva Loaeza-Albino
+title: Eva Loaeza Albino
 ---
 
 I am a PhD Candidate in Economics at the University of Houston. Before starting my PhD I worked as an antitrust economist at the Federal Economic Competition Commission (COFECE) in Mexico. I also worked as an economist at the Mexican Social Security Institute (IMSS).  
