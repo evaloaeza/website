@@ -30,7 +30,7 @@ summary: I presented my co-authored paper on the Externalities of Marijuana Lega
 tags: []
 title: Society of Labor Economists (SOLE) Annual Conference
 #url_code: ""
-url_pdf: "https://www.sole-jole.org/assets/docs/SOLE2024/Final%20Program%20SOLE%202024.pdf"
+#url_pdf: "https://www.sole-jole.org/assets/docs/SOLE2024/Final%20Program%20SOLE%202024.pdf"
 #url_slides: ""
 #url_video: ""
 ---
