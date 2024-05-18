@@ -11,7 +11,7 @@ authors: []
 date: "2024-05-03T13:00:00Z"
 date_end: "2024-05-04T15:00:00Z"
 event: Society of Labor Economists (SOLE) Annual Conference
-event_url: [https://www.sole-jole.org/upcoming-meeting](https://www.sole-jole.org/assets/docs/SOLE2024/Final%20Program%20SOLE%202024.pdf)
+event_url: [https://www.sole-jole.org/assets/docs/SOLE2024/Final%20Program%20SOLE%202024.pdf]
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://www.sole-jole.org/assets/images/SOLE2024/SOLE%202024%20Stamp.png)'
