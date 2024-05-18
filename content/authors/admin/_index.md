@@ -54,6 +54,8 @@ superuser: true
 title: Eva Loaeza Albino
 ---
 
-I hold a PhD in Economics from he University of Houston. Previously, I worked as an antitrust economist at the Federal Economic Competition Commission (COFECE) in Mexico. I also worked as an economist at the Mexican Social Security Institute (IMSS).  
+I hold a PhD in Economics from he University of Houston. Previously, I worked as an antitrust economist at the Federal Economic Competition Commission (COFECE) in Mexico. I also worked as an economist at the Mexican Social Security Institute (IMSS). 
+
+I have presented my work at the Society of Labor Economists (SOLE) Annual Conference, at the Eastern Economic Assciociation, and the Southern Economic Association Meetings. 
 
 {style="text-align: justify;"}
