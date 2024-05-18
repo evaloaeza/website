@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Houston
-    year: 2024 (expected)
+    year: 2024
   - course: MA in Economics
     institution: University of Houston
     year: 2021
@@ -25,7 +25,7 @@ last_name: Loaeza Albino
 organizations:
 - name: University of Houston
   url: https://www.uh.edu/class/economics/
-role: PhD Candidate
+role: PhD in Economics
 social:
 - icon: envelope
   icon_pack: fas
